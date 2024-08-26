@@ -1,0 +1,10 @@
+streamlit
+weaviate-client
+langchain
+tiktoken
+pypdf
+rapidocr-onnxruntime
+youtube-transcript-api
+fpdf
+pytube
+sentence-transformers
